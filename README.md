@@ -32,7 +32,7 @@
 
 | 联系我「designer_zhou」  |
 | --- | 
-| <img src="![WechatIMG239](https://github.com/zhoubingyan1/zhoubingyan1/assets/18182537/e8481d0b-4eaa-4a6b-9205-202ae5c8daaf)" width="240px"  height="240px"/> | 
+| <img src="https://github.com/zhoubingyan1/zhoubingyan1/assets/18182537/e8481d0b-4eaa-4a6b-9205-202ae5c8daaf" width="240px"  height="240px"/> | 
 
 
 
